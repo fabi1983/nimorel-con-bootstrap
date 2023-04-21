@@ -1,0 +1,77 @@
+#texto_inicial{
+    text-align: center;
+
+}
+
+#texto_inicial  p , .h3 {
+    color:rgb(91, 91, 91);
+}
+
+
+#navbar{
+    background-image: url(../img/fondo2.jpg);
+   
+    color: beige;
+}
+#bebidas{
+    height: 266px;
+    
+}
+#tablas{
+    height: 266px;
+}
+#shop{
+    height: 266px;
+}
+#comuniquemosnos{
+    text-align: center;
+    background-color: black;
+    color: beige;
+    margin-top: 10%;
+    width: 430px;
+    padding: 10px;
+}
+#reserva{
+   text-align:center;
+    background-color: black;
+    color: beige;
+    margin-top: 5%;
+    width: 430px;
+    padding:10px;
+    margin-bottom: 50px;
+    
+}
+#vinos{
+    height: 600px;
+}
+#mojito{
+    height: 600px;
+}
+.imagen_final1{
+  display: block;
+    height:200px;
+    width: 600px;
+}
+
+.imagen_final2{
+ display: inline-block;
+     height:200px;
+     width: 600px;
+ }
+ 
+
+#texto_imagen{
+background-color: black;
+  position: relative;
+
+ 
+    
+}
+.texto_imagen{
+position: absolute;
+top:30%;
+left: 10%;
+font-size: small;
+color: azure;
+}
+
